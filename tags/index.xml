@@ -5,12 +5,44 @@
     <link>https://chengxinlun.github.io/tags/</link>
       <atom:link href="https://chengxinlun.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 08 Jan 2020 12:33:35 -0500</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Oct 2020 12:33:35 -0500</lastBuildDate>
     <image>
       <url>https://chengxinlun.github.io/img/icon-192.png</url>
       <title>Tags</title>
       <link>https://chengxinlun.github.io/tags/</link>
     </image>
+    
+    <item>
+      <title>Research</title>
+      <link>https://chengxinlun.github.io/tags/research/</link>
+      <pubDate>Thu, 01 Oct 2020 12:33:35 -0500</pubDate>
+      <guid>https://chengxinlun.github.io/tags/research/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Milky Way Galaxy</title>
+      <link>https://chengxinlun.github.io/tags/milky-way-galaxy/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://chengxinlun.github.io/tags/milky-way-galaxy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sky surveys</title>
+      <link>https://chengxinlun.github.io/tags/sky-surveys/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://chengxinlun.github.io/tags/sky-surveys/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stellar kinematics</title>
+      <link>https://chengxinlun.github.io/tags/stellar-kinematics/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://chengxinlun.github.io/tags/stellar-kinematics/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Software</title>

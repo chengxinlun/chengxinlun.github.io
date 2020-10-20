@@ -5,7 +5,7 @@
     <link>https://chengxinlun.github.io/authors/cheng-xinlun/</link>
       <atom:link href="https://chengxinlun.github.io/authors/cheng-xinlun/index.xml" rel="self" type="application/rss+xml" />
     <description>Cheng, Xinlun</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Oct 2020 12:33:35 -0500</lastBuildDate>
     <image>
       <url>https://chengxinlun.github.io/img/icon-192.png</url>
       <title>Cheng, Xinlun</title>
@@ -13,10 +13,74 @@
     </image>
     
     <item>
+      <title>Visualization of Galactic Warp Model</title>
+      <link>https://chengxinlun.github.io/project/galwarp_visualization/</link>
+      <pubDate>Thu, 01 Oct 2020 12:33:35 -0500</pubDate>
+      <guid>https://chengxinlun.github.io/project/galwarp_visualization/</guid>
+      <description>&lt;p&gt;Animation of Galactic warp model presented in our paper.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+&lt;video controls &gt;
+  &lt;source src=&#34;galactic_warp_textured_rf.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+From the perspective of an observer at a fixed point in space.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+&lt;video controls &gt;
+  &lt;source src=&#34;galactic_warp_textured_solar.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+From the perspective of an observer following the Sun.&lt;/p&gt;
+&lt;p&gt;Animation made with blender. Texture of the Galaxy from NASA.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Stellar Velocity Distribution Function in the Milky Way Galaxy</title>
+      <link>https://chengxinlun.github.io/publication/2020aj....160...43a/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://chengxinlun.github.io/publication/2020aj....160...43a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stellarium for Android</title>
+      <link>https://chengxinlun.github.io/project/stellarium_mobile/</link>
+      <pubDate>Wed, 08 Jan 2020 12:33:35 -0500</pubDate>
+      <guid>https://chengxinlun.github.io/project/stellarium_mobile/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Search for strong galaxy-galaxy lensing in SDSS-III BOSS</title>
-      <link>https://chengxinlun.github.io/publication/2020raa....20...1c/</link>
+      <link>https://chengxinlun.github.io/publication/2020raa....20....2c/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://chengxinlun.github.io/publication/2020raa....20...1c/</guid>
+      <guid>https://chengxinlun.github.io/publication/2020raa....20....2c/</guid>
       <description></description>
     </item>
     
