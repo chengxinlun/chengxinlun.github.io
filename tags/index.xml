@@ -5,12 +5,36 @@
     <link>https://chengxinlun.github.io/tags/</link>
       <atom:link href="https://chengxinlun.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Oct 2020 12:33:35 -0500</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://chengxinlun.github.io/img/icon-192.png</url>
       <title>Tags</title>
       <link>https://chengxinlun.github.io/tags/</link>
     </image>
+    
+    <item>
+      <title>Galaxy: structure</title>
+      <link>https://chengxinlun.github.io/tags/galaxy-structure/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://chengxinlun.github.io/tags/galaxy-structure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Milky Way disk</title>
+      <link>https://chengxinlun.github.io/tags/milky-way-disk/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://chengxinlun.github.io/tags/milky-way-disk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Milky Way dynamics</title>
+      <link>https://chengxinlun.github.io/tags/milky-way-dynamics/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://chengxinlun.github.io/tags/milky-way-dynamics/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Research</title>
@@ -97,14 +121,6 @@
       <link>https://chengxinlun.github.io/tags/galaxy-kinematics-and-dynamics/</link>
       <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
       <guid>https://chengxinlun.github.io/tags/galaxy-kinematics-and-dynamics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Galaxy: structure</title>
-      <link>https://chengxinlun.github.io/tags/galaxy-structure/</link>
-      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://chengxinlun.github.io/tags/galaxy-structure/</guid>
       <description></description>
     </item>
     
