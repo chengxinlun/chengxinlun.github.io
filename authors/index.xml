@@ -5,7 +5,7 @@
     <link>https://chengxinlun.github.io/authors/</link>
       <atom:link href="https://chengxinlun.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 10 Jan 2021 13:00:00 +0000</lastBuildDate>
     <image>
       <url>https://chengxinlun.github.io/img/icon-192.png</url>
       <title>Authors</title>
@@ -15,15 +15,23 @@
     <item>
       <title>Anguiano, Borja</title>
       <link>https://chengxinlun.github.io/authors/anguiano-borja/</link>
-      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 10 Jan 2021 13:00:00 +0000</pubDate>
       <guid>https://chengxinlun.github.io/authors/anguiano-borja/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>APOGEE Team</title>
+      <link>https://chengxinlun.github.io/authors/apogee-team/</link>
+      <pubDate>Sun, 10 Jan 2021 13:00:00 +0000</pubDate>
+      <guid>https://chengxinlun.github.io/authors/apogee-team/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Arras, Phil</title>
       <link>https://chengxinlun.github.io/authors/arras-phil/</link>
-      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 10 Jan 2021 13:00:00 +0000</pubDate>
       <guid>https://chengxinlun.github.io/authors/arras-phil/</guid>
       <description></description>
     </item>
@@ -31,7 +39,7 @@
     <item>
       <title>Cheng, Xinlun</title>
       <link>https://chengxinlun.github.io/authors/cheng-xinlun/</link>
-      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 10 Jan 2021 13:00:00 +0000</pubDate>
       <guid>https://chengxinlun.github.io/authors/cheng-xinlun/</guid>
       <description></description>
     </item>
@@ -39,8 +47,24 @@
     <item>
       <title>Chiappini, Cristina</title>
       <link>https://chengxinlun.github.io/authors/chiappini-cristina/</link>
-      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 10 Jan 2021 13:00:00 +0000</pubDate>
       <guid>https://chengxinlun.github.io/authors/chiappini-cristina/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hasselquist, Sten</title>
+      <link>https://chengxinlun.github.io/authors/hasselquist-sten/</link>
+      <pubDate>Sun, 10 Jan 2021 13:00:00 +0000</pubDate>
+      <guid>https://chengxinlun.github.io/authors/hasselquist-sten/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hayes, Christian</title>
+      <link>https://chengxinlun.github.io/authors/hayes-christian/</link>
+      <pubDate>Sun, 10 Jan 2021 13:00:00 +0000</pubDate>
+      <guid>https://chengxinlun.github.io/authors/hayes-christian/</guid>
       <description></description>
     </item>
     
@@ -57,22 +81,6 @@
       <link>https://chengxinlun.github.io/authors/garcia-hernandez-domingo-anibal/</link>
       <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
       <guid>https://chengxinlun.github.io/authors/garcia-hernandez-domingo-anibal/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hasselquist, Sten</title>
-      <link>https://chengxinlun.github.io/authors/hasselquist-sten/</link>
-      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://chengxinlun.github.io/authors/hasselquist-sten/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hayes, Christian</title>
-      <link>https://chengxinlun.github.io/authors/hayes-christian/</link>
-      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://chengxinlun.github.io/authors/hayes-christian/</guid>
       <description></description>
     </item>
     

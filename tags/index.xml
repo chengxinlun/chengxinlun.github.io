@@ -5,12 +5,36 @@
     <link>https://chengxinlun.github.io/tags/</link>
       <atom:link href="https://chengxinlun.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 10 Jan 2021 13:00:00 +0000</lastBuildDate>
     <image>
       <url>https://chengxinlun.github.io/img/icon-192.png</url>
       <title>Tags</title>
       <link>https://chengxinlun.github.io/tags/</link>
     </image>
+    
+    <item>
+      <title>AAS</title>
+      <link>https://chengxinlun.github.io/tags/aas/</link>
+      <pubDate>Sun, 10 Jan 2021 13:00:00 +0000</pubDate>
+      <guid>https://chengxinlun.github.io/tags/aas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Press Release</title>
+      <link>https://chengxinlun.github.io/tags/press-release/</link>
+      <pubDate>Sun, 10 Jan 2021 13:00:00 +0000</pubDate>
+      <guid>https://chengxinlun.github.io/tags/press-release/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Research Talk</title>
+      <link>https://chengxinlun.github.io/tags/research-talk/</link>
+      <pubDate>Sun, 10 Jan 2021 13:00:00 +0000</pubDate>
+      <guid>https://chengxinlun.github.io/tags/research-talk/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Galaxy: structure</title>
