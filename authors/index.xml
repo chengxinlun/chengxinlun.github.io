@@ -5,12 +5,60 @@
     <link>https://chengxinlun.github.io/authors/</link>
       <atom:link href="https://chengxinlun.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 10 Jan 2021 13:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 13 Oct 2021 11:00:00 +0000</lastBuildDate>
     <image>
       <url>https://chengxinlun.github.io/img/icon-192.png</url>
       <title>Authors</title>
       <link>https://chengxinlun.github.io/authors/</link>
     </image>
+    
+    <item>
+      <title>APOGEE Team</title>
+      <link>https://chengxinlun.github.io/authors/apogee-team/</link>
+      <pubDate>Wed, 13 Oct 2021 11:00:00 +0000</pubDate>
+      <guid>https://chengxinlun.github.io/authors/apogee-team/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Besla, Gurtina</title>
+      <link>https://chengxinlun.github.io/authors/besla-gurtina/</link>
+      <pubDate>Wed, 13 Oct 2021 11:00:00 +0000</pubDate>
+      <guid>https://chengxinlun.github.io/authors/besla-gurtina/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cheng, Xinlun</title>
+      <link>https://chengxinlun.github.io/authors/cheng-xinlun/</link>
+      <pubDate>Wed, 13 Oct 2021 11:00:00 +0000</pubDate>
+      <guid>https://chengxinlun.github.io/authors/cheng-xinlun/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Choi, Yumi</title>
+      <link>https://chengxinlun.github.io/authors/choi-yumi/</link>
+      <pubDate>Wed, 13 Oct 2021 11:00:00 +0000</pubDate>
+      <guid>https://chengxinlun.github.io/authors/choi-yumi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Monachesi, Antonela</title>
+      <link>https://chengxinlun.github.io/authors/monachesi-antonela/</link>
+      <pubDate>Wed, 13 Oct 2021 11:00:00 +0000</pubDate>
+      <guid>https://chengxinlun.github.io/authors/monachesi-antonela/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Olsen, Knut</title>
+      <link>https://chengxinlun.github.io/authors/olsen-knut/</link>
+      <pubDate>Wed, 13 Oct 2021 11:00:00 +0000</pubDate>
+      <guid>https://chengxinlun.github.io/authors/olsen-knut/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Anguiano, Borja</title>
@@ -21,26 +69,10 @@
     </item>
     
     <item>
-      <title>APOGEE Team</title>
-      <link>https://chengxinlun.github.io/authors/apogee-team/</link>
-      <pubDate>Sun, 10 Jan 2021 13:00:00 +0000</pubDate>
-      <guid>https://chengxinlun.github.io/authors/apogee-team/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Arras, Phil</title>
       <link>https://chengxinlun.github.io/authors/arras-phil/</link>
       <pubDate>Sun, 10 Jan 2021 13:00:00 +0000</pubDate>
       <guid>https://chengxinlun.github.io/authors/arras-phil/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cheng, Xinlun</title>
-      <link>https://chengxinlun.github.io/authors/cheng-xinlun/</link>
-      <pubDate>Sun, 10 Jan 2021 13:00:00 +0000</pubDate>
-      <guid>https://chengxinlun.github.io/authors/cheng-xinlun/</guid>
       <description></description>
     </item>
     
@@ -211,6 +243,14 @@
       <link>https://chengxinlun.github.io/authors/majewski-steven-r./</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://chengxinlun.github.io/authors/majewski-steven-r./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nidever, David L.</title>
+      <link>https://chengxinlun.github.io/authors/nidever-david-l./</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://chengxinlun.github.io/authors/nidever-david-l./</guid>
       <description></description>
     </item>
     
