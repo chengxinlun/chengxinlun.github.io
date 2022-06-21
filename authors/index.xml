@@ -5,7 +5,7 @@
     <link>https://chengxinlun.github.io/authors/</link>
       <atom:link href="https://chengxinlun.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 13 Oct 2021 11:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 26 Apr 2022 13:00:00 +0000</lastBuildDate>
     <image>
       <url>https://chengxinlun.github.io/img/icon-192.png</url>
       <title>Authors</title>
@@ -13,33 +13,65 @@
     </image>
     
     <item>
-      <title>APOGEE Team</title>
-      <link>https://chengxinlun.github.io/authors/apogee-team/</link>
-      <pubDate>Wed, 13 Oct 2021 11:00:00 +0000</pubDate>
-      <guid>https://chengxinlun.github.io/authors/apogee-team/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Besla, Gurtina</title>
-      <link>https://chengxinlun.github.io/authors/besla-gurtina/</link>
-      <pubDate>Wed, 13 Oct 2021 11:00:00 +0000</pubDate>
-      <guid>https://chengxinlun.github.io/authors/besla-gurtina/</guid>
+      <title>Bozsik, Spencer</title>
+      <link>https://chengxinlun.github.io/authors/bozsik-spencer/</link>
+      <pubDate>Tue, 26 Apr 2022 13:00:00 +0000</pubDate>
+      <guid>https://chengxinlun.github.io/authors/bozsik-spencer/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cheng, Xinlun</title>
       <link>https://chengxinlun.github.io/authors/cheng-xinlun/</link>
-      <pubDate>Wed, 13 Oct 2021 11:00:00 +0000</pubDate>
+      <pubDate>Tue, 26 Apr 2022 13:00:00 +0000</pubDate>
       <guid>https://chengxinlun.github.io/authors/cheng-xinlun/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kuncham, Malvika </title>
+      <link>https://chengxinlun.github.io/authors/kuncham-malvika/</link>
+      <pubDate>Tue, 26 Apr 2022 13:00:00 +0000</pubDate>
+      <guid>https://chengxinlun.github.io/authors/kuncham-malvika/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mitchell, Evan</title>
+      <link>https://chengxinlun.github.io/authors/mitchell-evan/</link>
+      <pubDate>Tue, 26 Apr 2022 13:00:00 +0000</pubDate>
+      <guid>https://chengxinlun.github.io/authors/mitchell-evan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Almeida, Andres</title>
+      <link>https://chengxinlun.github.io/authors/almeida-andres/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://chengxinlun.github.io/authors/almeida-andres/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anguiano, Borja</title>
+      <link>https://chengxinlun.github.io/authors/anguiano-borja/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://chengxinlun.github.io/authors/anguiano-borja/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Besla, Gurtina</title>
+      <link>https://chengxinlun.github.io/authors/besla-gurtina/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://chengxinlun.github.io/authors/besla-gurtina/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Choi, Yumi</title>
       <link>https://chengxinlun.github.io/authors/choi-yumi/</link>
-      <pubDate>Wed, 13 Oct 2021 11:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
       <guid>https://chengxinlun.github.io/authors/choi-yumi/</guid>
       <description></description>
     </item>
@@ -47,24 +79,40 @@
     <item>
       <title>Monachesi, Antonela</title>
       <link>https://chengxinlun.github.io/authors/monachesi-antonela/</link>
-      <pubDate>Wed, 13 Oct 2021 11:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
       <guid>https://chengxinlun.github.io/authors/monachesi-antonela/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Muñoz Gonzalez, Cesar</title>
+      <link>https://chengxinlun.github.io/authors/munoz-gonzalez-cesar/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://chengxinlun.github.io/authors/munoz-gonzalez-cesar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nitschelm, Christian</title>
+      <link>https://chengxinlun.github.io/authors/nitschelm-christian/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://chengxinlun.github.io/authors/nitschelm-christian/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Olsen, Knut</title>
       <link>https://chengxinlun.github.io/authors/olsen-knut/</link>
-      <pubDate>Wed, 13 Oct 2021 11:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
       <guid>https://chengxinlun.github.io/authors/olsen-knut/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Anguiano, Borja</title>
-      <link>https://chengxinlun.github.io/authors/anguiano-borja/</link>
-      <pubDate>Sun, 10 Jan 2021 13:00:00 +0000</pubDate>
-      <guid>https://chengxinlun.github.io/authors/anguiano-borja/</guid>
+      <title>APOGEE Team</title>
+      <link>https://chengxinlun.github.io/authors/apogee-team/</link>
+      <pubDate>Wed, 13 Oct 2021 11:00:00 +0000</pubDate>
+      <guid>https://chengxinlun.github.io/authors/apogee-team/</guid>
       <description></description>
     </item>
     
@@ -113,14 +161,6 @@
       <link>https://chengxinlun.github.io/authors/garcia-hernandez-domingo-anibal/</link>
       <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
       <guid>https://chengxinlun.github.io/authors/garcia-hernandez-domingo-anibal/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Nitschelm, Christian</title>
-      <link>https://chengxinlun.github.io/authors/nitschelm-christian/</link>
-      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://chengxinlun.github.io/authors/nitschelm-christian/</guid>
       <description></description>
     </item>
     
@@ -243,6 +283,14 @@
       <link>https://chengxinlun.github.io/authors/majewski-steven-r./</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://chengxinlun.github.io/authors/majewski-steven-r./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Muñoz, Ricardo R.</title>
+      <link>https://chengxinlun.github.io/authors/munoz-ricardo-r./</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://chengxinlun.github.io/authors/munoz-ricardo-r./</guid>
       <description></description>
     </item>
     
