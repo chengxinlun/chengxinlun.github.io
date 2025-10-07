@@ -33,7 +33,9 @@
       <link>https://chengxinlun.github.io/publication/2022apj...928...95c/</link>
       <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
       <guid>https://chengxinlun.github.io/publication/2022apj...928...95c/</guid>
-      <description></description>
+      <description>&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;
+&lt;p&gt;We report the first 3-D kinematical measurements of 88 stars in the direction of several recently discovered substructures in the southern periphery of the Large Magellanic Cloud (LMC) using a combination of &lt;em&gt;Gaia&lt;/em&gt; proper motions and radial velocities from the APOGEE-2 survey. More specifically, we explore stars lie in assorted APOGEE-2 pointings in a region of the LMC periphery where various overdensities of stars have previously been identified in maps of stars from &lt;em&gt;Gaia&lt;/em&gt; and DECam. By using a model of the LMC disk rotation, we find that a sizeable fraction of the APOGEE-2 stars have extreme space velocities that are distinct from, and not a simple extension of, the LMC disk. Using N-body hydrodynamical simulations of the past dynamical evolution and interaction of the LMC and Small Magellanic Cloud (SMC), we explore whether the extreme velocity stars may be accounted for as tidal debris created in the course of that interaction. We conclude that the combination of LMC and SMC debris produced from their interaction is a promising explanation, although we cannot rule out other possible origins, and that these new data should be used to constrain future simulations of the LMC-SMC interaction. We also conclude that many of the stars in the southern periphery of the LMC lie out of the LMC plane by several kpc. Given that the metallicity of these stars suggest they are likely of Magellanic origin, our results suggest that a wider exploration of the past interaction history of the Magellanic Clouds is needed.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -67,7 +69,9 @@
       <link>https://chengxinlun.github.io/publication/2020apj...905...49c/</link>
       <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
       <guid>https://chengxinlun.github.io/publication/2020apj...905...49c/</guid>
-      <description></description>
+      <description>&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;
+&lt;p&gt;Previous analyses of large databases of Milky Way stars have revealed the stellar disk of our Galaxy to be warped and that this imparts a strong signature on the kinematics of stars beyond the solar neighborhood. However, due to the limitation of accurate distance estimates, many attempts to explore the extent of these Galactic features have generally been restricted to a volume near the Sun. By combining Gaia DR2 astrometric solution, StarHorse distance and stellar abundances from the APOGEE survey, we present the most detailed and radially expansive study yet of the vertical and radial motions of stars in the Galactic disk. We map stellar velocity with respect to their Galactocentric radius, angular momentum, and azimuthal angle and assess their relation to the warp. A decrease in vertical velocity is discovered at Galactocentric radius $R=13$ kpc and angular momentum $L_z=2800$ kpc km s$^{-1}$. Smaller ripples in vertical and radial velocity are also discovered superposed on the main trend. We also discovered that trends in the vertical velocity with azimuthal angle are not symmetric about the peak, suggesting the warp to be lopsided. To explain the global trend in vertical velocity, we built a simple analytical model of the Galactic warp. Our best fit yields a starting radius of $8.87^{+0.08}_{-0.09}$ kpc and precession rate of $13.57^{+0.20}_{-0.18}$ km s$^{-1}$ kpc$^{-1}$. These parameters remain consistent across stellar age groups, a result that supports the notion that the warp is the result of an external, gravitationally induced phenomenon.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -131,7 +135,9 @@ From the perspective of an observer following the Sun.&lt;/p&gt;
       <link>https://chengxinlun.github.io/publication/2020aj....160...43a/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
       <guid>https://chengxinlun.github.io/publication/2020aj....160...43a/</guid>
-      <description></description>
+      <description>&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;
+&lt;p&gt;The stellar velocity distribution function (DF) in the solar vicinity is re-examined using data from the SDSS APOGEE survey&amp;rsquo;s DR16 and &lt;em&gt;Gaia&lt;/em&gt; DR2. By exploiting APOGEE&amp;rsquo;s ability to chemically discriminate with great reliability the thin disk, thick disk and (accreted) halo populations, we can, for the first time, derive the three-dimensional velocity DFs for these chemically-separated populations. We employ this smaller, but more data-rich APOGEE+&lt;em&gt;Gaia&lt;/em&gt; sample to build a &lt;em&gt;data-driven model&lt;/em&gt; of the local stellar population velocity DFs, and use these as basis vectors for assessing the relative density proportions of these populations over 5 &amp;lt; R &amp;lt; 12 kpc, and -1.5 &amp;lt; z &amp;lt; 2.5 kpc range as derived from the larger, more complete (i.e., all-sky, magnitude-limited) &lt;em&gt;Gaia&lt;/em&gt; database. We find that $81.9 \pm 3.1$% of the objects in the selected &lt;em&gt;Gaia&lt;/em&gt; data-set are thin-disk stars, $16.6 \pm 3.2$% are thick-disk stars, and $1.5 \pm 0.1$% belong to the Milky Way stellar halo. We also find the local thick-to-thin-disk density normalization to be $\rho_{T}(R_{\odot})/\rho_{t}(R_{\odot}) = 2.1 \pm 0.2$%, a result consistent with, but determined in a completely different way than, typical starcount/density analyses. Using the same methodology, the local halo-to-disk density normalization is found to be $\rho_{H}(R_{\odot})/(\rho_{T}(R_{\odot}) + \rho_{t}(R_{\odot})) = 1.2 \pm 0.6$%, a value that may be inflated due to chemical overlap of halo and metal-weak thick disk stars.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -147,7 +153,9 @@ From the perspective of an observer following the Sun.&lt;/p&gt;
       <link>https://chengxinlun.github.io/publication/2020raa....20....2c/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://chengxinlun.github.io/publication/2020raa....20....2c/</guid>
-      <description></description>
+      <description>&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;
+&lt;p&gt;Strong lensing is one of the most spectacular views in the universe. Many cosmological applications have been proposed, but the number of such lensing systems is still limited. In this work, we applied an improved version of a previously developed spectroscopic lensing search method to the SDSS-III BOSS and proposed a list of highly possible candidates. Follow-up CFHT Megacam imaging observations were performed for five systems, and two out of five are probably strong lensing systems with at least one image close to the central galaxy, although no counter images are detected.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -155,7 +163,9 @@ From the perspective of an observer following the Sun.&lt;/p&gt;
       <link>https://chengxinlun.github.io/publication/2019apj...872l...1c/</link>
       <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
       <guid>https://chengxinlun.github.io/publication/2019apj...872l...1c/</guid>
-      <description></description>
+      <description>&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;
+&lt;p&gt;With about 12,000 OB type stars selected from the LAMOST and &lt;em&gt;Gaia&lt;/em&gt; survey, we study their 3 dimensional velocity distribution over the range of galactocentric radius from 6 to 15 kpc in the Galactic disk plane. A clear ripple pattern in the radial velocity ($V_R$) map is shown. The median $V_R$ reaches $-8$ km s$^{-1}$ at $R\sim9$ kpc, then increases to $\sim0$ km s$^{-1}$ at $R\sim12$ kpc, and later declines to below $-10$ km s$^{-1}$ beyond $R\sim13$,kpc. The median azimuthal velocity ($V_\phi$) map shows a similar pattern but has roughly $1/4$ phase difference with the radial velocity. Although the ripple of negative $V_R$ at $\sim9$ kpc extends to about 40$^\circ$ in the azimuth angle, it does not align with either the Local or the Perseus spiral arm. Moreover, the farther ripple beyond 13,kpc does not match the Outer spiral arm either. This indicates that the non-axisymmetric kinematic features are not induced by perturbations of known spiral structures. The central rotating bar can not lead to such patterns in the outer disk either. External perturbation of a dwarf galaxy or a dark matter sub-halo can induce such patterns but requires more evidence from both observations and simulations. The $V_\phi$ map in the $Z$&amp;ndash;$V_Z$ plane of the OB stars is also investigated. Despite asymmetry to some degree, no spiral pattern is found. This is reasonable since most of the OB stars have ages much younger than 100 Myrs, which is smaller than one orbital period around the Galactic center.&lt;/p&gt;
+</description>
     </item>
     
   </channel>
