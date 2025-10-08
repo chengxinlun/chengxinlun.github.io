@@ -5,7 +5,7 @@
     <link>https://chengxinlun.github.io/tags/</link>
       <atom:link href="https://chengxinlun.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://chengxinlun.github.io/img/icon-192.png</url>
       <title>Tags</title>
@@ -13,9 +13,17 @@
     </image>
     
     <item>
+      <title>AI4Science</title>
+      <link>https://chengxinlun.github.io/tags/ai4science/</link>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://chengxinlun.github.io/tags/ai4science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Artificial Intelligence</title>
       <link>https://chengxinlun.github.io/tags/artificial-intelligence/</link>
-      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
       <guid>https://chengxinlun.github.io/tags/artificial-intelligence/</guid>
       <description></description>
     </item>
@@ -23,8 +31,80 @@
     <item>
       <title>Machine Learning</title>
       <link>https://chengxinlun.github.io/tags/machine-learning/</link>
-      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
       <guid>https://chengxinlun.github.io/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Physics-informed machine learning</title>
+      <link>https://chengxinlun.github.io/tags/physics-informed-machine-learning/</link>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://chengxinlun.github.io/tags/physics-informed-machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Galaxy: disc</title>
+      <link>https://chengxinlun.github.io/tags/galaxy-disc/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://chengxinlun.github.io/tags/galaxy-disc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Galaxy: fundamental parameters</title>
+      <link>https://chengxinlun.github.io/tags/galaxy-fundamental-parameters/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://chengxinlun.github.io/tags/galaxy-fundamental-parameters/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Galaxy: kinematics and dynamics</title>
+      <link>https://chengxinlun.github.io/tags/galaxy-kinematics-and-dynamics/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://chengxinlun.github.io/tags/galaxy-kinematics-and-dynamics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>surveys</title>
+      <link>https://chengxinlun.github.io/tags/surveys/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://chengxinlun.github.io/tags/surveys/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>astrochemistry</title>
+      <link>https://chengxinlun.github.io/tags/astrochemistry/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://chengxinlun.github.io/tags/astrochemistry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>galaxies:kinematics and dynamics</title>
+      <link>https://chengxinlun.github.io/tags/galaxieskinematics-and-dynamics/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://chengxinlun.github.io/tags/galaxieskinematics-and-dynamics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Magellanic Clouds</title>
+      <link>https://chengxinlun.github.io/tags/magellanic-clouds/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://chengxinlun.github.io/tags/magellanic-clouds/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>star: abundances</title>
+      <link>https://chengxinlun.github.io/tags/star-abundances/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://chengxinlun.github.io/tags/star-abundances/</guid>
       <description></description>
     </item>
     
@@ -217,14 +297,6 @@
       <link>https://chengxinlun.github.io/tags/galaxy-disk/</link>
       <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
       <guid>https://chengxinlun.github.io/tags/galaxy-disk/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Galaxy: kinematics and dynamics</title>
-      <link>https://chengxinlun.github.io/tags/galaxy-kinematics-and-dynamics/</link>
-      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://chengxinlun.github.io/tags/galaxy-kinematics-and-dynamics/</guid>
       <description></description>
     </item>
     

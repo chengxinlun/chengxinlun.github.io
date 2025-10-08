@@ -5,7 +5,7 @@
     <link>https://chengxinlun.github.io/authors/</link>
       <atom:link href="https://chengxinlun.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://chengxinlun.github.io/img/icon-192.png</url>
       <title>Authors</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Azarfar, Shahab</title>
       <link>https://chengxinlun.github.io/authors/azarfar-shahab/</link>
-      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
       <guid>https://chengxinlun.github.io/authors/azarfar-shahab/</guid>
       <description></description>
     </item>
@@ -23,7 +23,7 @@
     <item>
       <title>Baek, Stephen</title>
       <link>https://chengxinlun.github.io/authors/baek-stephen/</link>
-      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
       <guid>https://chengxinlun.github.io/authors/baek-stephen/</guid>
       <description></description>
     </item>
@@ -31,8 +31,120 @@
     <item>
       <title>Cheng, Xinlun</title>
       <link>https://chengxinlun.github.io/authors/cheng-xinlun/</link>
-      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
       <guid>https://chengxinlun.github.io/authors/cheng-xinlun/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Choi, Sanghun</title>
+      <link>https://chengxinlun.github.io/authors/choi-sanghun/</link>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://chengxinlun.github.io/authors/choi-sanghun/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kim, Munho</title>
+      <link>https://chengxinlun.github.io/authors/kim-munho/</link>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://chengxinlun.github.io/authors/kim-munho/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Seshadri, Pradeep</title>
+      <link>https://chengxinlun.github.io/authors/seshadri-pradeep/</link>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://chengxinlun.github.io/authors/seshadri-pradeep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anguiano, Borja</title>
+      <link>https://chengxinlun.github.io/authors/anguiano-borja/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://chengxinlun.github.io/authors/anguiano-borja/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Arras, Phil</title>
+      <link>https://chengxinlun.github.io/authors/arras-phil/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://chengxinlun.github.io/authors/arras-phil/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Almeida, Andres</title>
+      <link>https://chengxinlun.github.io/authors/almeida-andres/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://chengxinlun.github.io/authors/almeida-andres/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Choi, Yumi</title>
+      <link>https://chengxinlun.github.io/authors/choi-yumi/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://chengxinlun.github.io/authors/choi-yumi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Geisler, Douglas</title>
+      <link>https://chengxinlun.github.io/authors/geisler-douglas/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://chengxinlun.github.io/authors/geisler-douglas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Monachesi, Antonela</title>
+      <link>https://chengxinlun.github.io/authors/monachesi-antonela/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://chengxinlun.github.io/authors/monachesi-antonela/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Muñoz, César</title>
+      <link>https://chengxinlun.github.io/authors/munoz-cesar/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://chengxinlun.github.io/authors/munoz-cesar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nitschelm, Christian</title>
+      <link>https://chengxinlun.github.io/authors/nitschelm-christian/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://chengxinlun.github.io/authors/nitschelm-christian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Olsen, Knut</title>
+      <link>https://chengxinlun.github.io/authors/olsen-knut/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://chengxinlun.github.io/authors/olsen-knut/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Roman-Lopes, Alexandre</title>
+      <link>https://chengxinlun.github.io/authors/roman-lopes-alexandre/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://chengxinlun.github.io/authors/roman-lopes-alexandre/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zivick, Paul</title>
+      <link>https://chengxinlun.github.io/authors/zivick-paul/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://chengxinlun.github.io/authors/zivick-paul/</guid>
       <description></description>
     </item>
     
@@ -77,42 +189,10 @@
     </item>
     
     <item>
-      <title>Almeida, Andres</title>
-      <link>https://chengxinlun.github.io/authors/almeida-andres/</link>
-      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>https://chengxinlun.github.io/authors/almeida-andres/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Anguiano, Borja</title>
-      <link>https://chengxinlun.github.io/authors/anguiano-borja/</link>
-      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>https://chengxinlun.github.io/authors/anguiano-borja/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Besla, Gurtina</title>
       <link>https://chengxinlun.github.io/authors/besla-gurtina/</link>
       <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
       <guid>https://chengxinlun.github.io/authors/besla-gurtina/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Choi, Yumi</title>
-      <link>https://chengxinlun.github.io/authors/choi-yumi/</link>
-      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>https://chengxinlun.github.io/authors/choi-yumi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Monachesi, Antonela</title>
-      <link>https://chengxinlun.github.io/authors/monachesi-antonela/</link>
-      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>https://chengxinlun.github.io/authors/monachesi-antonela/</guid>
       <description></description>
     </item>
     
@@ -125,34 +205,10 @@
     </item>
     
     <item>
-      <title>Nitschelm, Christian</title>
-      <link>https://chengxinlun.github.io/authors/nitschelm-christian/</link>
-      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>https://chengxinlun.github.io/authors/nitschelm-christian/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Olsen, Knut</title>
-      <link>https://chengxinlun.github.io/authors/olsen-knut/</link>
-      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>https://chengxinlun.github.io/authors/olsen-knut/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>APOGEE Team</title>
       <link>https://chengxinlun.github.io/authors/apogee-team/</link>
       <pubDate>Wed, 13 Oct 2021 11:00:00 +0000</pubDate>
       <guid>https://chengxinlun.github.io/authors/apogee-team/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Arras, Phil</title>
-      <link>https://chengxinlun.github.io/authors/arras-phil/</link>
-      <pubDate>Sun, 10 Jan 2021 13:00:00 +0000</pubDate>
-      <guid>https://chengxinlun.github.io/authors/arras-phil/</guid>
       <description></description>
     </item>
     
@@ -193,14 +249,6 @@
       <link>https://chengxinlun.github.io/authors/garcia-hernandez-domingo-anibal/</link>
       <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
       <guid>https://chengxinlun.github.io/authors/garcia-hernandez-domingo-anibal/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Roman-Lopes, Alexandre</title>
-      <link>https://chengxinlun.github.io/authors/roman-lopes-alexandre/</link>
-      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://chengxinlun.github.io/authors/roman-lopes-alexandre/</guid>
       <description></description>
     </item>
     
@@ -288,6 +336,14 @@
     </item>
     
     <item>
+      <title>Fernandez-Trincado, Jose G.</title>
+      <link>https://chengxinlun.github.io/authors/fernandez-trincado-jose-g./</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://chengxinlun.github.io/authors/fernandez-trincado-jose-g./</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Frinchaboy, Peter M.</title>
       <link>https://chengxinlun.github.io/authors/frinchaboy-peter-m./</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -336,10 +392,26 @@
     </item>
     
     <item>
+      <title>Nguyen, Yen T.</title>
+      <link>https://chengxinlun.github.io/authors/nguyen-yen-t./</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://chengxinlun.github.io/authors/nguyen-yen-t./</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Nidever, David L.</title>
       <link>https://chengxinlun.github.io/authors/nidever-david-l./</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://chengxinlun.github.io/authors/nidever-david-l./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Udaykumar, H.S.</title>
+      <link>https://chengxinlun.github.io/authors/udaykumar-h.s./</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://chengxinlun.github.io/authors/udaykumar-h.s./</guid>
       <description></description>
     </item>
     

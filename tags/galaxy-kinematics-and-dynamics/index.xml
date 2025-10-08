@@ -5,12 +5,22 @@
     <link>https://chengxinlun.github.io/tags/galaxy-kinematics-and-dynamics/</link>
       <atom:link href="https://chengxinlun.github.io/tags/galaxy-kinematics-and-dynamics/index.xml" rel="self" type="application/rss+xml" />
     <description>Galaxy: kinematics and dynamics</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://chengxinlun.github.io/img/icon-192.png</url>
       <title>Galaxy: kinematics and dynamics</title>
       <link>https://chengxinlun.github.io/tags/galaxy-kinematics-and-dynamics/</link>
     </image>
+    
+    <item>
+      <title>The surface mass density of the Milky Way: does the traditional $K_Z$ approach work in the context of new surveys?</title>
+      <link>https://chengxinlun.github.io/publication/2024_mnras_527_959/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://chengxinlun.github.io/publication/2024_mnras_527_959/</guid>
+      <description>&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;
+&lt;p&gt;We revisit the classical $K_Z$ problem &amp;mdash; determination of the vertical force and implied total mass density distribution of the Milky Way disk &amp;mdash; for a wide range of Galactocentric radius and vertical height using chemically selected thin and thick disk samples based on APOGEE spectroscopy combined with the &lt;em&gt;Gaia&lt;/em&gt; astrometry. We derived the velocity dispersion profiles in Galactic cylindrical coordinates, and solved the Jeans Equation for the two samples separately. The result is surprising that the total surface mass density as a function of vertical height as derived for these two chemically distinguished populations are different. The discrepancies are larger in the inner compared to the outer Galaxy, with the density calculated from thick disk being larger, independent of the Galactic radius. Furthermore, while there is an overall good agreement between the total mass density derived for the thick disk population and the Standard Halo Model for vertical heights larger than 1 kpc, close to the midplane the mass density observed using the thick disk population is larger than the predicted from the Standard Halo Model. We explore various implications of these discrepancies, and speculate their sources, including problems associated with the assumed density laws, velocity dispersion profiles, and  the Galactic rotation curve, potential non-equilibrium of the Galactic disk, or a failure of the NFW dark matter halo profile for the Milky Way. We conclude that the growing detail in hand on the chemodynamical distributions of Milky Way stars challenges traditional analytical treatments of the $K_Z$ problem.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Ripple Patterns in In-plane Velocities of OB Stars from LAMOST and Gaia</title>
