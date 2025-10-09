@@ -5,7 +5,7 @@
     <link>https://chengxinlun.github.io/tags/</link>
       <atom:link href="https://chengxinlun.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Oct 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://chengxinlun.github.io/img/icon-192.png</url>
       <title>Tags</title>
@@ -15,7 +15,7 @@
     <item>
       <title>AI4Science</title>
       <link>https://chengxinlun.github.io/tags/ai4science/</link>
-      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
       <guid>https://chengxinlun.github.io/tags/ai4science/</guid>
       <description></description>
     </item>
@@ -23,15 +23,23 @@
     <item>
       <title>Artificial Intelligence</title>
       <link>https://chengxinlun.github.io/tags/artificial-intelligence/</link>
-      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
       <guid>https://chengxinlun.github.io/tags/artificial-intelligence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data-driven modeling</title>
+      <link>https://chengxinlun.github.io/tags/data-driven-modeling/</link>
+      <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://chengxinlun.github.io/tags/data-driven-modeling/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Machine Learning</title>
       <link>https://chengxinlun.github.io/tags/machine-learning/</link>
-      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
       <guid>https://chengxinlun.github.io/tags/machine-learning/</guid>
       <description></description>
     </item>
@@ -39,8 +47,40 @@
     <item>
       <title>Physics-informed machine learning</title>
       <link>https://chengxinlun.github.io/tags/physics-informed-machine-learning/</link>
-      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
       <guid>https://chengxinlun.github.io/tags/physics-informed-machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reactive material</title>
+      <link>https://chengxinlun.github.io/tags/reactive-material/</link>
+      <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://chengxinlun.github.io/tags/reactive-material/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shear bands</title>
+      <link>https://chengxinlun.github.io/tags/shear-bands/</link>
+      <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://chengxinlun.github.io/tags/shear-bands/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fluid dynamics</title>
+      <link>https://chengxinlun.github.io/tags/fluid-dynamics/</link>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://chengxinlun.github.io/tags/fluid-dynamics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reactive flow</title>
+      <link>https://chengxinlun.github.io/tags/reactive-flow/</link>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://chengxinlun.github.io/tags/reactive-flow/</guid>
       <description></description>
     </item>
     

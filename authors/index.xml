@@ -5,7 +5,7 @@
     <link>https://chengxinlun.github.io/authors/</link>
       <atom:link href="https://chengxinlun.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Oct 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://chengxinlun.github.io/img/icon-192.png</url>
       <title>Authors</title>
@@ -13,26 +13,50 @@
     </image>
     
     <item>
-      <title>Azarfar, Shahab</title>
-      <link>https://chengxinlun.github.io/authors/azarfar-shahab/</link>
-      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://chengxinlun.github.io/authors/azarfar-shahab/</guid>
+      <title>Baek, Stephen</title>
+      <link>https://chengxinlun.github.io/authors/baek-stephen/</link>
+      <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://chengxinlun.github.io/authors/baek-stephen/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Baek, Stephen</title>
-      <link>https://chengxinlun.github.io/authors/baek-stephen/</link>
-      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://chengxinlun.github.io/authors/baek-stephen/</guid>
+      <title>Chen, Bingzhe</title>
+      <link>https://chengxinlun.github.io/authors/chen-bingzhe/</link>
+      <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://chengxinlun.github.io/authors/chen-bingzhe/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cheng, Xinlun</title>
       <link>https://chengxinlun.github.io/authors/cheng-xinlun/</link>
-      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
       <guid>https://chengxinlun.github.io/authors/cheng-xinlun/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Seshadri, Pradeep</title>
+      <link>https://chengxinlun.github.io/authors/seshadri-pradeep/</link>
+      <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://chengxinlun.github.io/authors/seshadri-pradeep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Verma, Mayank</title>
+      <link>https://chengxinlun.github.io/authors/verma-mayank/</link>
+      <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://chengxinlun.github.io/authors/verma-mayank/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Azarfar, Shahab</title>
+      <link>https://chengxinlun.github.io/authors/azarfar-shahab/</link>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://chengxinlun.github.io/authors/azarfar-shahab/</guid>
       <description></description>
     </item>
     
@@ -49,14 +73,6 @@
       <link>https://chengxinlun.github.io/authors/kim-munho/</link>
       <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
       <guid>https://chengxinlun.github.io/authors/kim-munho/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Seshadri, Pradeep</title>
-      <link>https://chengxinlun.github.io/authors/seshadri-pradeep/</link>
-      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://chengxinlun.github.io/authors/seshadri-pradeep/</guid>
       <description></description>
     </item>
     
@@ -336,6 +352,14 @@
     </item>
     
     <item>
+      <title>Choi, Joseph B.</title>
+      <link>https://chengxinlun.github.io/authors/choi-joseph-b./</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://chengxinlun.github.io/authors/choi-joseph-b./</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Fernandez-Trincado, Jose G.</title>
       <link>https://chengxinlun.github.io/authors/fernandez-trincado-jose-g./</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -348,6 +372,14 @@
       <link>https://chengxinlun.github.io/authors/frinchaboy-peter-m./</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://chengxinlun.github.io/authors/frinchaboy-peter-m./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gray, Zoe J.</title>
+      <link>https://chengxinlun.github.io/authors/gray-zoe-j./</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://chengxinlun.github.io/authors/gray-zoe-j./</guid>
       <description></description>
     </item>
     
@@ -404,6 +436,14 @@
       <link>https://chengxinlun.github.io/authors/nidever-david-l./</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://chengxinlun.github.io/authors/nidever-david-l./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Seshadri, Pradeep K.</title>
+      <link>https://chengxinlun.github.io/authors/seshadri-pradeep-k./</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://chengxinlun.github.io/authors/seshadri-pradeep-k./</guid>
       <description></description>
     </item>
     

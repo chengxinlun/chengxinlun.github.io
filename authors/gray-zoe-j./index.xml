@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gray, Zoe J. | Xinlun Cheng</title>
+    <link>https://chengxinlun.github.io/authors/gray-zoe-j./</link>
+      <atom:link href="https://chengxinlun.github.io/authors/gray-zoe-j./index.xml" rel="self" type="application/rss+xml" />
+    <description>Gray, Zoe J.</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>https://chengxinlun.github.io/img/icon-192.png</url>
+      <title>Gray, Zoe J.</title>
+      <link>https://chengxinlun.github.io/authors/gray-zoe-j./</link>
+    </image>
+    
+    <item>
+      <title>Physics-aware recurrent convolutional neural networks for modeling multiphase compressible flows</title>
+      <link>https://chengxinlun.github.io/publication/2024_ijmf_177_104877/</link>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://chengxinlun.github.io/publication/2024_ijmf_177_104877/</guid>
+      <description>&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;
+&lt;p&gt;Multiphase compressible flow systems can exhibit unsteady and fast-transient dynamics, marked by sharp gradients and discontinuities, and material boundaries that interact with the evolving flow. The transient nature of the dynamics presents challenges to employing artificial intelligence (AI) and data-driven models for predicting flow behaviors. In this study, we explore the potential of physics-aware recurrent convolutional neural networks (PARC) to model the spatiotemporal dynamics of multiphase flows in the presence of shocks and reaction fronts. PARC is a neural network model that incorporates the generic form of the diffusion–advection–reaction equation in its network architecture, which mimics the process of solving the governing equations of fluid flows. In contrast to physics-informed machine learning approaches such as physics-informed neural networks (PINNs) where models are trained to directly minimize the residual of governing equations, PARC takes a dynamical systems viewpoint and does not seek to minimize potentially nonconvex and nonlinear loss terms. To assess the ability of PARC to accurately learn and simulate the physics of multiphase flows, we train and test PARC on various flow simulation problems, including the Burgers’ equation, fluid flow behind a cylindrical cross-section, and unsteady shock interactions with a particle at varying Mach numbers. We analyze PARC’s performance and examine sources of error in its prediction, in terms of differentiation and integration schemes and different weighting strategies for the model update. Based on our observations, we discuss PARC’s capabilities and limitations in multiphase flow applications and propose future research directions.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

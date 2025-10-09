@@ -5,12 +5,22 @@
     <link>https://chengxinlun.github.io/authors/cheng-xinlun/</link>
       <atom:link href="https://chengxinlun.github.io/authors/cheng-xinlun/index.xml" rel="self" type="application/rss+xml" />
     <description>Cheng, Xinlun</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Oct 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://chengxinlun.github.io/img/icon-192.png</url>
       <title>Cheng, Xinlun</title>
       <link>https://chengxinlun.github.io/authors/cheng-xinlun/</link>
     </image>
+    
+    <item>
+      <title>A Physics-Aware Deep Learning Model for Shear Band Formation Around Collapsing Pores in Shocked Reactive Materials</title>
+      <link>https://chengxinlun.github.io/publication/2025_jap_138_145105/</link>
+      <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://chengxinlun.github.io/publication/2025_jap_138_145105/</guid>
+      <description>&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;
+&lt;p&gt;Modeling shock-to-detonation phenomena in energetic materials (EMs) requires capturing complex physical processes such as strong shocks, rapid changes in microstructural morphology, and nonlinear dynamics of chemical reaction fronts. These processes participate in energy localization at hotspots, which initiate chemical energy release leading to detonation. This study addresses the formation of hotspots in crystalline EMs subjected to weak-to-moderate shock loading, which, despite its critical relevance to the safe storage and handling of EMs, remains underexplored compared to the well-studied strong shock conditions. To overcome the computational challenges associated with direct numerical simulations, we advance the Physics-Aware Recurrent Convolutional Neural Network (PARCv2), which has been shown to be capable of predicting strong shock responses in EMs. We improved the architecture of PARCv2 to rapidly predict shear localizations and plastic heating, which play important roles in the weak-to-moderate shock regime. PARCv2 is benchmarked against two widely used physics-informed models, namely, Fourier neural operator and neural ordinary differential equation; we demonstrate its superior performance in capturing the spatiotemporal dynamics of shear band formation. While all models exhibit certain failure modes, our findings underscore the importance of domain-specific considerations in developing robust AI-accelerated simulation tools for reactive materials.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>PARCv2: Physics-aware Recurrent Convolutional Neural Networks for Spatiotemporal Dynamics Modeling</title>
@@ -19,6 +29,16 @@
       <guid>https://chengxinlun.github.io/publication/2024_icml/</guid>
       <description>&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;
 &lt;p&gt;Modeling unsteady, fast transient, and advection-dominated physics problems is a pressing challenge for physics-aware deep learning (PADL). The physics of complex systems is governed by large systems of partial differential equations (PDEs) and ancillary constitutive models with nonlinear structures, as well as evolving state fields exhibiting sharp gradients and rapidly deforming material interfaces. Here, we investigate an inductive bias approach that is versatile and generalizable to model generic nonlinear field evolution problems. Our study focuses on the recent physics-aware recurrent convolutions (PARC), which incorporates a differentiator-integrator architecture that inductively models the spatiotemporal dynamics of generic physical systems. We extend the capabilities of PARC to simulate unsteady, transient, and advection-dominant systems. The extended model, referred to as PARCv2, is equipped with differential operators to model advection-reaction-diffusion equations, as well as a hybrid integral solver for stable, long-time predictions. PARCv2 is tested on both standard benchmark problems in fluid dynamics, namely Burgers and Navier-Stokes equations, and then applied to more complex shock-induced reaction problems in energetic materials. We evaluate the behavior of PARCv2 in comparison to other physics-informed and learning bias models and demonstrate its potential to model unsteady and advection-dominant dynamics regimes.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Physics-aware recurrent convolutional neural networks for modeling multiphase compressible flows</title>
+      <link>https://chengxinlun.github.io/publication/2024_ijmf_177_104877/</link>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://chengxinlun.github.io/publication/2024_ijmf_177_104877/</guid>
+      <description>&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;
+&lt;p&gt;Multiphase compressible flow systems can exhibit unsteady and fast-transient dynamics, marked by sharp gradients and discontinuities, and material boundaries that interact with the evolving flow. The transient nature of the dynamics presents challenges to employing artificial intelligence (AI) and data-driven models for predicting flow behaviors. In this study, we explore the potential of physics-aware recurrent convolutional neural networks (PARC) to model the spatiotemporal dynamics of multiphase flows in the presence of shocks and reaction fronts. PARC is a neural network model that incorporates the generic form of the diffusion–advection–reaction equation in its network architecture, which mimics the process of solving the governing equations of fluid flows. In contrast to physics-informed machine learning approaches such as physics-informed neural networks (PINNs) where models are trained to directly minimize the residual of governing equations, PARC takes a dynamical systems viewpoint and does not seek to minimize potentially nonconvex and nonlinear loss terms. To assess the ability of PARC to accurately learn and simulate the physics of multiphase flows, we train and test PARC on various flow simulation problems, including the Burgers’ equation, fluid flow behind a cylindrical cross-section, and unsteady shock interactions with a particle at varying Mach numbers. We analyze PARC’s performance and examine sources of error in its prediction, in terms of differentiation and integration schemes and different weighting strategies for the model update. Based on our observations, we discuss PARC’s capabilities and limitations in multiphase flow applications and propose future research directions.&lt;/p&gt;
 </description>
     </item>
     
