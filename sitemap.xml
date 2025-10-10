@@ -60,15 +60,21 @@
     <lastmod>2025-10-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://chengxinlun.github.io/tags/poster/</loc>
-    <lastmod>2025-04-04T13:00:00+00:00</lastmod>
+    <lastmod>2025-06-23T17:30:00+00:00</lastmod>
   </url><url>
-    <loc>https://chengxinlun.github.io/talk/2025_ebrc_poster/</loc>
-    <lastmod>2025-04-04T13:00:00+00:00</lastmod>
+    <loc>https://chengxinlun.github.io/talk/2025_aps_sccm_poster/</loc>
+    <lastmod>2025-06-23T17:30:00+00:00</lastmod>
   </url><url>
     <loc>https://chengxinlun.github.io/tags/reactive-materials/</loc>
-    <lastmod>2025-04-04T13:00:00+00:00</lastmod>
+    <lastmod>2025-06-23T17:30:00+00:00</lastmod>
   </url><url>
     <loc>https://chengxinlun.github.io/talk/</loc>
+    <lastmod>2025-06-23T17:30:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chengxinlun.github.io/talk/2025_aps_sccm_talk/</loc>
+    <lastmod>2025-06-23T12:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chengxinlun.github.io/talk/2025_ebrc_poster/</loc>
     <lastmod>2025-04-04T13:00:00+00:00</lastmod>
   </url><url>
     <loc>https://chengxinlun.github.io/publication_types/1/</loc>
@@ -272,25 +278,13 @@
     <loc>https://chengxinlun.github.io/publication/2020aj....160...43a/</loc>
     <lastmod>2020-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://chengxinlun.github.io/tags/software/</loc>
-    <lastmod>2020-01-08T12:33:35-05:00</lastmod>
-  </url><url>
-    <loc>https://chengxinlun.github.io/tags/stargazing/</loc>
-    <lastmod>2020-01-08T12:33:35-05:00</lastmod>
-  </url><url>
-    <loc>https://chengxinlun.github.io/authors/stellarium-dev-team/</loc>
-    <lastmod>2020-01-08T12:33:35-05:00</lastmod>
-  </url><url>
-    <loc>https://chengxinlun.github.io/project/stellarium_mobile/</loc>
-    <lastmod>2020-01-08T12:33:35-05:00</lastmod>
-  </url><url>
     <loc>https://chengxinlun.github.io/projects/</loc>
     <lastmod>2020-01-08T14:40:00+00:00</lastmod>
   </url><url>
-    <loc>https://chengxinlun.github.io/outreach/</loc>
+    <loc>https://chengxinlun.github.io/research/</loc>
     <lastmod>2020-01-08T11:31:00+00:00</lastmod>
   </url><url>
-    <loc>https://chengxinlun.github.io/research/</loc>
+    <loc>https://chengxinlun.github.io/outreach/</loc>
     <lastmod>2020-01-08T11:31:00+00:00</lastmod>
   </url><url>
     <loc>https://chengxinlun.github.io/teaching/</loc>

@@ -23,6 +23,22 @@
     </item>
     
     <item>
+      <title>POSTER: Physics-Aware Convolutional Neural Networks for Modelling Energetic Material in the Strong Shock Regime</title>
+      <link>https://chengxinlun.github.io/talk/2025_aps_sccm_poster/</link>
+      <pubDate>Mon, 23 Jun 2025 17:30:00 +0000</pubDate>
+      <guid>https://chengxinlun.github.io/talk/2025_aps_sccm_poster/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Physics-Aware Convolutional Neural Networksfor Modeling Energetic Material in the Weak Shock Regime</title>
+      <link>https://chengxinlun.github.io/talk/2025_aps_sccm_talk/</link>
+      <pubDate>Mon, 23 Jun 2025 12:00:00 +0000</pubDate>
+      <guid>https://chengxinlun.github.io/talk/2025_aps_sccm_talk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>POSTER: A Physics-Aware Deep Learning Model for Shear Band Formation in Weak-to-Modest Shock Regime</title>
       <link>https://chengxinlun.github.io/talk/2025_ebrc_poster/</link>
       <pubDate>Fri, 04 Apr 2025 13:00:00 +0000</pubDate>
@@ -188,14 +204,6 @@ From the perspective of an observer following the Sun.&lt;/p&gt;
       <description>&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;
 &lt;p&gt;The stellar velocity distribution function (DF) in the solar vicinity is re-examined using data from the SDSS APOGEE survey&amp;rsquo;s DR16 and &lt;em&gt;Gaia&lt;/em&gt; DR2. By exploiting APOGEE&amp;rsquo;s ability to chemically discriminate with great reliability the thin disk, thick disk and (accreted) halo populations, we can, for the first time, derive the three-dimensional velocity DFs for these chemically-separated populations. We employ this smaller, but more data-rich APOGEE+&lt;em&gt;Gaia&lt;/em&gt; sample to build a &lt;em&gt;data-driven model&lt;/em&gt; of the local stellar population velocity DFs, and use these as basis vectors for assessing the relative density proportions of these populations over 5 &amp;lt; R &amp;lt; 12 kpc, and -1.5 &amp;lt; z &amp;lt; 2.5 kpc range as derived from the larger, more complete (i.e., all-sky, magnitude-limited) &lt;em&gt;Gaia&lt;/em&gt; database. We find that $81.9 \pm 3.1$% of the objects in the selected &lt;em&gt;Gaia&lt;/em&gt; data-set are thin-disk stars, $16.6 \pm 3.2$% are thick-disk stars, and $1.5 \pm 0.1$% belong to the Milky Way stellar halo. We also find the local thick-to-thin-disk density normalization to be $\rho_{T}(R_{\odot})/\rho_{t}(R_{\odot}) = 2.1 \pm 0.2$%, a result consistent with, but determined in a completely different way than, typical starcount/density analyses. Using the same methodology, the local halo-to-disk density normalization is found to be $\rho_{H}(R_{\odot})/(\rho_{T}(R_{\odot}) + \rho_{t}(R_{\odot})) = 1.2 \pm 0.6$%, a value that may be inflated due to chemical overlap of halo and metal-weak thick disk stars.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Stellarium for Android</title>
-      <link>https://chengxinlun.github.io/project/stellarium_mobile/</link>
-      <pubDate>Wed, 08 Jan 2020 12:33:35 -0500</pubDate>
-      <guid>https://chengxinlun.github.io/project/stellarium_mobile/</guid>
-      <description></description>
     </item>
     
     <item>

@@ -21,9 +21,9 @@
     </item>
     
     <item>
-      <title>Recent &amp; Upcoming Talks</title>
+      <title>Recent Talks</title>
       <link>https://chengxinlun.github.io/talk/</link>
-      <pubDate>Fri, 04 Apr 2025 13:00:00 +0000</pubDate>
+      <pubDate>Mon, 23 Jun 2025 17:30:00 +0000</pubDate>
       <guid>https://chengxinlun.github.io/talk/</guid>
       <description></description>
     </item>
@@ -45,18 +45,18 @@
     </item>
     
     <item>
-      <title>Public Outreach</title>
-      <link>https://chengxinlun.github.io/outreach/</link>
-      <pubDate>Wed, 08 Jan 2020 11:31:00 +0000</pubDate>
-      <guid>https://chengxinlun.github.io/outreach/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Research</title>
       <link>https://chengxinlun.github.io/research/</link>
       <pubDate>Wed, 08 Jan 2020 11:31:00 +0000</pubDate>
       <guid>https://chengxinlun.github.io/research/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Service &amp; Outreach</title>
+      <link>https://chengxinlun.github.io/outreach/</link>
+      <pubDate>Wed, 08 Jan 2020 11:31:00 +0000</pubDate>
+      <guid>https://chengxinlun.github.io/outreach/</guid>
       <description></description>
     </item>
     
